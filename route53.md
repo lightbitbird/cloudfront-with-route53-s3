@@ -25,9 +25,12 @@
   - Select the [Use custom nameservers] checkbox
   - Set Nameserver1 to 4 from the hosted zone at Route53 you registered.
 
-    see [AWSでWebサイトをHTTPS化 その5：CloudFront(+証明書)→S3編](https://recipe.kc-cloud.jp/archives/11256)
+    see: 
+    [Attach Elastic IP to EC2 Instance](https://avinton.com/academy/route53-dns-vhost/)
+    [AWSでWebサイトをHTTPS化 その5：CloudFront(+証明書)→S3編](https://recipe.kc-cloud.jp/archives/11256)
+     
 
-## 2-1. Setup DNS as the Route53 if EIP will be set on EC2 instance or external server
+## 2-1. Setup DNS with the Route53 if EIP will be set on EC2 instance or external server
 - Finish step 1(registering DNS)
 
 - Get EIP(Elastic IP)
