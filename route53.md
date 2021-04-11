@@ -42,7 +42,7 @@
   - Put EIP at value
 
 
-## 2-2. Setup DNS as the Route53 when using S3 and Cloudfront
+## 2-2. Setup DNS with the Route53 when using S3 and Cloudfront
 
 - Finish step 1(registering DNS)
 
